@@ -37,4 +37,4 @@ I created a simple web application using HTML, CSS, and JavaScript. The HTML pro
 
 ## Live Demo
 
-Check out the live demo [here](link_to_live_demo).
+Check out the live demo [here](https://aachal01.github.io/advice-generator-app/).
